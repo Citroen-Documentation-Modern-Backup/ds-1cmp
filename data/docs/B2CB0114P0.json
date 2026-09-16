@@ -1,0 +1,30 @@
+{
+ "ref": "B2CB0114P0",
+ "refDisplay": "B2CB0114P0",
+ "title": "Couples de serrage : boîte de vitesses mécanique type W5MBB - F5MBB",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "BVM5 4X2",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0017"
+  }
+ ]
+}

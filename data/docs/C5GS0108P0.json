@@ -1,0 +1,65 @@
+{
+ "ref": "C5GS0108P0",
+ "refDisplay": "C5GS0108P0",
+ "title": "Déshabillage - habillage : siège arrière 2/3 (rang 2)",
+ "nature": "Déshabillage/habillage",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0228"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0229"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0228"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0229"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0228"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0229"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0228"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0229"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0228"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0229"
+  }
+ ]
+}

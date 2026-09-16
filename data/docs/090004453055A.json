@@ -1,0 +1,33 @@
+{
+ "ref": "090004453055A",
+ "refDisplay": "0900 04 453055A",
+ "title": "FREINS ABR ADDITIONNEL CANALISATION",
+ "nature": "",
+ "applicability": "AVEC SYSTEME ESP ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0042"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0042"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0042"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0042"
+  }
+ ]
+}

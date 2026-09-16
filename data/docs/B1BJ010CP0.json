@@ -1,0 +1,40 @@
+{
+ "ref": "B1BJ010CP0",
+ "refDisplay": "B1BJ010CP0",
+ "title": "Révision : moteur type 4B11 - 4B12 (sommaire)",
+ "nature": "Remise en état",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0049"
+  }
+ ]
+}

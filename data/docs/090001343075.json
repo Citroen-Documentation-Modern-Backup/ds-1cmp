@@ -1,0 +1,18 @@
+{
+ "ref": "090001343075",
+ "refDisplay": "0900 01 343075",
+ "title": "DIFFERENTIEL AV",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

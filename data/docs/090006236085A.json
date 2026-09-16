@@ -1,0 +1,18 @@
+{
+ "ref": "090006236085A",
+ "refDisplay": "0900 06 236085A",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0009"
+  }
+ ]
+}

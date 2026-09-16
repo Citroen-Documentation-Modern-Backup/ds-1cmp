@@ -1,0 +1,20 @@
+{
+ "ref": "B1BB010LP0",
+ "refDisplay": "B1BB010LP0",
+ "title": "Identification  - caractéristiques : Moteur DW12MTED4",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0049"
+  }
+ ]
+}

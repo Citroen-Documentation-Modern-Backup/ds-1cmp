@@ -1,0 +1,23 @@
+{
+ "ref": "090001322501A",
+ "refDisplay": "0900 01 322501A",
+ "title": "CONVERTISSEUR",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0016"
+  }
+ ]
+}

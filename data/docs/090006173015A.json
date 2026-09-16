@@ -1,0 +1,18 @@
+{
+ "ref": "090006173015A",
+ "refDisplay": "0900 06 173015A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "4 ROUES MOTRICES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0010"
+  }
+ ]
+}

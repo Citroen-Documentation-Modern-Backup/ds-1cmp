@@ -1,0 +1,18 @@
+{
+ "ref": "090004456220A",
+ "refDisplay": "0900 04 456220A",
+ "title": "AMPLIFICATEUR DE FREINAGE RACCORDS",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0044"
+  }
+ ]
+}

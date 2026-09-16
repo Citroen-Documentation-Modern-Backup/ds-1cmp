@@ -1,0 +1,18 @@
+{
+ "ref": "090001121001A",
+ "refDisplay": "0900 01 121001A",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "BVM5 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0005"
+  }
+ ]
+}

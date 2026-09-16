@@ -1,0 +1,18 @@
+{
+ "ref": "090004371120A",
+ "refDisplay": "0900 04 371120A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM6 4X4 ET TRANSMISSION TRANSVERSALE AVANT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0022"
+  }
+ ]
+}

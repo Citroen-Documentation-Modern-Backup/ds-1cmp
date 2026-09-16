@@ -1,0 +1,18 @@
+{
+ "ref": "090002144185A",
+ "refDisplay": "0900 02 144185A",
+ "title": "CALCULATEUR CAPTEUR ALIMENTATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0010"
+  }
+ ]
+}

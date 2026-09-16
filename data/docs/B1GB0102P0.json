@@ -1,0 +1,20 @@
+{
+ "ref": "B1GB0102P0",
+ "refDisplay": "B1GB0102P0",
+ "title": "Identification  - caractéristiques : circuit de refroidissement (moteur type DW12 M)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0009"
+  }
+ ]
+}

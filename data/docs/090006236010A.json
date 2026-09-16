@@ -1,0 +1,18 @@
+{
+ "ref": "090006236010A",
+ "refDisplay": "0900 06 236010A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X4 JUSQU’A OPR 12343",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ref": "B1GG0102P0",
+ "refDisplay": "B1GG0102P0",
+ "title": "Dépose - repose : pompe à eau ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CVV",
+   "variantKey": "B0D=B0DAF&B0F=B0FJ0",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0009"
+  }
+ ]
+}

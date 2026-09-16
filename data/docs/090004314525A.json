@@ -1,0 +1,18 @@
+{
+ "ref": "090004314525A",
+ "refDisplay": "0900 04 314525A",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE ET BVM6 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0016"
+  }
+ ]
+}

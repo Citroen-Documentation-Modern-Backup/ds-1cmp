@@ -1,0 +1,18 @@
+{
+ "ref": "090002533260A",
+ "refDisplay": "0900 02 533260A",
+ "title": "DETAIL DEMARREUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0302"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "ref": "B1BG013UP0",
+ "refDisplay": "B1BG013UP0",
+ "title": "Dépose - repose : ensemble moteur - boîte de vitesses ",
+ "nature": "Dépose-pose",
+ "applicability": "TRANSMISSION CONTINUE 4X4",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0017"
+  }
+ ]
+}

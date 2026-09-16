@@ -1,0 +1,25 @@
+{
+ "ref": "D1BG0101P0",
+ "refDisplay": "D1BG0101P0",
+ "title": "Dépose - repose : démarreur",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0302"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0302"
+  }
+ ]
+}

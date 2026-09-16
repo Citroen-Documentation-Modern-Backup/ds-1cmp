@@ -1,0 +1,91 @@
+{
+ "ldp": "1CMP",
+ "label": "C-CROSSER",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DSU",
+     "lib": "SUV"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FRP",
+     "lib": "2.0 i MMC EURO4"
+    },
+    {
+     "val": "B0FJ4",
+     "lib": "2.2 HDi FAP (DW12ME5)"
+    },
+    {
+     "val": "B0FJ1",
+     "lib": "2.2 HDi FAP 160"
+    },
+    {
+     "val": "B0FRM",
+     "lib": "2.4 i MMC EURO4"
+    },
+    {
+     "val": "B0FRN",
+     "lib": "2.4 i MMC EURO5"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DSU&B0F=B0FRP",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRP"
+   },
+   "label": "SUV · 2.0 i MMC EURO4"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FJ4",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FJ4"
+   },
+   "label": "SUV · 2.2 HDi FAP (DW12ME5)"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FJ1",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FJ1"
+   },
+   "label": "SUV · 2.2 HDi FAP 160"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRM",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRM"
+   },
+   "label": "SUV · 2.4 i MMC EURO4"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRN",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRN"
+   },
+   "label": "SUV · 2.4 i MMC EURO5"
+  }
+ ]
+}

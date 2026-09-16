@@ -1,0 +1,20 @@
+{
+ "ref": "B1FG013YP0",
+ "refDisplay": "B1FG013YP0",
+ "title": "Dépose - repose : capteur de niveau/température huile",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0008"
+  }
+ ]
+}

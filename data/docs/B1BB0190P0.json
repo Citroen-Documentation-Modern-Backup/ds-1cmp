@@ -1,0 +1,40 @@
+{
+ "ref": "B1BB0190P0",
+ "refDisplay": "B1BB0190P0",
+ "title": "Identification - caractéristiques : haut moteur 4B11 / 4B12",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0006"
+  }
+ ]
+}

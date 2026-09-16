@@ -1,0 +1,23 @@
+{
+ "ref": "090002170087A",
+ "refDisplay": "0900 02 170087A",
+ "title": "FILTRE AIR RACCORD RESONATEUR AIR",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS 4X4 ET CONDUITE A DROITE DEPUIS OPR 12670",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0010"
+  }
+ ]
+}

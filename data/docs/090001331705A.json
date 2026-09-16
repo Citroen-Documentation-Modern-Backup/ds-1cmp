@@ -1,0 +1,18 @@
+{
+ "ref": "090001331705A",
+ "refDisplay": "0900 01 331705A",
+ "title": "CARTER BOITE TRANSFERT",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0020"
+  }
+ ]
+}

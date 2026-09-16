@@ -1,0 +1,23 @@
+{
+ "ref": "090003434465A",
+ "refDisplay": "0900 03 434465A",
+ "title": "BRAS BUTEES MOYEUX ROULEMENTS ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0030"
+  }
+ ]
+}

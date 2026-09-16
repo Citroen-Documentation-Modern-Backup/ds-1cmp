@@ -1,0 +1,20 @@
+{
+ "ref": "B1EG010FP0",
+ "refDisplay": "B1EG010FP0",
+ "title": "Dépose - repose : Chaîne de distribution",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0007"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ref": "B3FG012AP0",
+ "refDisplay": "B3FG012AP0",
+ "title": "Dépose - repose : amplificateur de freinage",
+ "nature": "Dépose-pose",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0044"
+  }
+ ]
+}

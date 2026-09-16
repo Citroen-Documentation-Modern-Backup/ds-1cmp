@@ -1,0 +1,18 @@
+{
+ "ref": "090004454103A",
+ "refDisplay": "0900 04 454103A",
+ "title": "BOITIER ANTIBLOCAGE CALCULATEUR",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0340"
+  }
+ ]
+}

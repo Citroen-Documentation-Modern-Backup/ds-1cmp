@@ -1,0 +1,20 @@
+{
+ "ref": "B1HG011HP0",
+ "refDisplay": "B1HG011HP0",
+ "title": "Dépose - repose : filtre à air ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0010"
+  }
+ ]
+}

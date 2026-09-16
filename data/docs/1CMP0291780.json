@@ -1,0 +1,19 @@
+{
+ "ref": "1CMP0291780",
+ "refDisplay": "1CMP 0 29 1780",
+ "title": "CIRCUIT ADDITIVATION CARBURANT",
+ "nature": "",
+ "applicability": "(MSDM) C-CROSSER SUV DIESEL TURBO DW12MTED4 FAP BVM6 4X4 OU (M002) C-CROSSER SUV DIESEL TURBO DW12MTED4 FAP BVM PILOTEE 6 RAPPORTS 4X4",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0010"
+  }
+ ]
+}

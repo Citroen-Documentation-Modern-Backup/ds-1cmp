@@ -1,0 +1,90 @@
+{
+ "ref": "B1BB0187P0",
+ "refDisplay": "B1BB0187P0",
+ "title": "Valeurs de contrôle et de réglage : moteurs types 4A92 - 4B11 - 4B12",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0009"
+  }
+ ]
+}

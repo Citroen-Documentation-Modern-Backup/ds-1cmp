@@ -1,0 +1,18 @@
+{
+ "ref": "090004454151A",
+ "refDisplay": "0900 04 454151A",
+ "title": "CAPTEUR VITESSE CALCULATEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0340"
+  }
+ ]
+}

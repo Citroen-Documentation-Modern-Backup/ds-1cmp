@@ -1,0 +1,18 @@
+{
+ "ref": "090002140005A",
+ "refDisplay": "0900 02 140005A",
+ "title": "COLLECTEUR REPARTITEUR ADMISSION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0010"
+  }
+ ]
+}

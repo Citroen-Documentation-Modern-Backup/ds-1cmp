@@ -1,0 +1,25 @@
+{
+ "ref": "B2CG016UP0",
+ "refDisplay": "B2CG016UP0",
+ "title": "Dépose - repose : boîte de vitesses manuelle pilotée type Dct (moteur DW12M)",
+ "nature": "Dépose-pose",
+ "applicability": "BVM PILOTEE 6 RAPPORTS 4X4",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0017"
+  }
+ ]
+}

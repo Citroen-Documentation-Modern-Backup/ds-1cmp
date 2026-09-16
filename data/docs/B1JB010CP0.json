@@ -1,0 +1,20 @@
+{
+ "ref": "B1JB010CP0",
+ "refDisplay": "B1JB010CP0",
+ "title": "Identification  - caractéristiques : ligne d’échappement",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0011"
+  }
+ ]
+}

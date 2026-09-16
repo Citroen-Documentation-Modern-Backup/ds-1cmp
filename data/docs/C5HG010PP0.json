@@ -1,0 +1,20 @@
+{
+ "ref": "C5HG010PP0",
+ "refDisplay": "C5HG010PP0",
+ "title": "Dépose - repose : résistance chauffante d’air d’habitacle",
+ "nature": "Dépose-pose",
+ "applicability": "REFRIGERATION AUTOMATIQUE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0347"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "090006175180A",
+ "refDisplay": "0900 06 175180A",
+ "title": "TUBULURE REMPLISSAGE DE CARBURANT",
+ "nature": "",
+ "applicability": "4 ROUES MOTRICES JUSQU’A OPR 12288",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0010"
+  }
+ ]
+}

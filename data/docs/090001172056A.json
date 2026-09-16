@@ -1,0 +1,18 @@
+{
+ "ref": "090001172056A",
+ "refDisplay": "0900 01 172056A",
+ "title": "SURALIMENTATION GRAISSAGE DU TURBO",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 11346",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0014"
+  }
+ ]
+}

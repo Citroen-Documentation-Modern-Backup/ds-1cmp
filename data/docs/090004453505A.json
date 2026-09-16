@@ -1,0 +1,18 @@
+{
+ "ref": "090004453505A",
+ "refDisplay": "0900 04 453505A",
+ "title": "MAITRE CYLINDRE RESERVOIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0045"
+  }
+ ]
+}

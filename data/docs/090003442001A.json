@@ -1,0 +1,23 @@
+{
+ "ref": "090003442001A",
+ "refDisplay": "0900 03 442001A",
+ "title": "CREMAILLERE DIRECTION",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE JUSQU’A OPR 11430",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0339"
+  }
+ ]
+}

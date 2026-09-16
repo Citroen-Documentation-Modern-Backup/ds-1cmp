@@ -1,0 +1,20 @@
+{
+ "ref": "B1JG016VP0",
+ "refDisplay": "B1JG016VP0",
+ "title": "Dépose - repose : ligne d’échappement",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0011"
+  }
+ ]
+}

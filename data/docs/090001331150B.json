@@ -1,0 +1,18 @@
+{
+ "ref": "090001331150B",
+ "refDisplay": "0900 01 331150B",
+ "title": "CARTER DE BOITE ET FIXATIONS",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0017"
+  }
+ ]
+}

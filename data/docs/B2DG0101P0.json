@@ -1,0 +1,25 @@
+{
+ "ref": "B2DG0101P0",
+ "refDisplay": "B2DG0101P0",
+ "title": "Dépose - repose : boîte de transfert",
+ "nature": "Dépose-pose",
+ "applicability": "TRANSMISSION CONTINUE 4X4",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0020"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0020"
+  }
+ ]
+}

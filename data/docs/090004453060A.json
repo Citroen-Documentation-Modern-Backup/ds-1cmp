@@ -1,0 +1,18 @@
+{
+ "ref": "090004453060A",
+ "refDisplay": "0900 04 453060A",
+ "title": "FREINS ABR ADDITIONNEL CANALISATION",
+ "nature": "",
+ "applicability": "SANS SYSTEME ESP ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0042"
+  }
+ ]
+}

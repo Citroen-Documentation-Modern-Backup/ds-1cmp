@@ -1,0 +1,18 @@
+{
+ "ref": "090003442502A",
+ "refDisplay": "0900 03 442502A",
+ "title": "BIELLETTES DETAIL CREMAILLERE",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0037"
+  }
+ ]
+}

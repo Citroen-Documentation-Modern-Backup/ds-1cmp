@@ -1,0 +1,18 @@
+{
+ "ref": "090004371115A",
+ "refDisplay": "0900 04 371115A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X2 ET 4 ROUES MOTRICES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0022"
+  }
+ ]
+}

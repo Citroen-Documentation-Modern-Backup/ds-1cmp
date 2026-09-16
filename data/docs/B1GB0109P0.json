@@ -1,0 +1,20 @@
+{
+ "ref": "B1GB0109P0",
+ "refDisplay": "B1GB0109P0",
+ "title": "Identification  - caractéristiques : circuit de refroidissement (moteur type 4B12)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0009"
+  }
+ ]
+}

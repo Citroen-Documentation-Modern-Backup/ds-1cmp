@@ -1,0 +1,18 @@
+{
+ "ref": "090001223005A",
+ "refDisplay": "0900 01 223005A",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0008"
+  }
+ ]
+}

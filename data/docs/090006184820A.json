@@ -1,0 +1,18 @@
+{
+ "ref": "090006184820A",
+ "refDisplay": "0900 06 184820A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0011"
+  }
+ ]
+}

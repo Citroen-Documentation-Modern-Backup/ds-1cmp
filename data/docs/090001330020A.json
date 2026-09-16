@@ -1,0 +1,18 @@
+{
+ "ref": "090001330020A",
+ "refDisplay": "0900 01 330020A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM PILOTEE 6 RAPPORTS 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "090006175660A",
+ "refDisplay": "0900 06 175660A",
+ "title": "BOITIER SONDE TEMPERATURE ECHAPP",
+ "nature": "",
+ "applicability": "BVM6 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0012"
+  }
+ ]
+}

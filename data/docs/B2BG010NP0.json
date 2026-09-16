@@ -1,0 +1,30 @@
+{
+ "ref": "B2BG010NP0",
+ "refDisplay": "B2BG010NP0",
+ "title": "Dépose - repose : commande hydraulique d’embrayage",
+ "nature": "Dépose-pose",
+ "applicability": "BVM5 4X2",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRN",
+   "fctId": "FCT0016"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "090006236001A",
+ "refDisplay": "0900 06 236001A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "BVM5 4X4 JUSQU’A OPR 12343",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0009"
+  }
+ ]
+}

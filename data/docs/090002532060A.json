@@ -1,0 +1,18 @@
+{
+ "ref": "090002532060A",
+ "refDisplay": "0900 02 532060A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRM",
+   "fctId": "FCT0303"
+  }
+ ]
+}

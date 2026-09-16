@@ -1,0 +1,18 @@
+{
+ "ref": "090004454117A",
+ "refDisplay": "0900 04 454117A",
+ "title": "BOITIER ANTIBLOCAGE CALCULATEUR",
+ "nature": "",
+ "applicability": "(AUS) AUSTRALIE ET CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
+   "fctId": "FCT0340"
+  }
+ ]
+}

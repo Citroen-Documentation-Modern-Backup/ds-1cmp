@@ -1,0 +1,18 @@
+{
+ "ref": "090001312002A",
+ "refDisplay": "0900 01 312002A",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0016"
+  }
+ ]
+}

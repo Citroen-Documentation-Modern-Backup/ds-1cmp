@@ -1,0 +1,30 @@
+{
+ "ref": "B1DG014WP0",
+ "refDisplay": "B1DG014WP0",
+ "title": "Dépose - repose : Arbre à cames",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0007"
+  }
+ ]
+}

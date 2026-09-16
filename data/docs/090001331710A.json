@@ -1,0 +1,18 @@
+{
+ "ref": "090001331710A",
+ "refDisplay": "0900 01 331710A",
+ "title": "CARTER BOITE TRANSFERT",
+ "nature": "",
+ "applicability": "BVM6 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMP",
+   "variantKey": "B0D=B0DSU&B0F=B0FJ1",
+   "fctId": "FCT0020"
+  }
+ ]
+}
