@@ -1,18 +1,1 @@
-{
- "ref": "090002212001A",
- "refDisplay": "0900 02 212001A",
- "title": "BOUGIES - MODULE - BOBINE ALLUMAGE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FRM",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"090002212001A","refDisplay":"0900 02 212001A","title":"BOUGIES - MODULE - BOBINE ALLUMAGE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FRM","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CMP)(B0FRM)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001844"},[]],["thesaurus",{"type":"10","code":"001862"},[]],["thesaurus",{"type":"10","code":"014271"},[]],["mpr",{"catal":"0900","grp":"46","grp2":"02","maj":"20120224","numfich":"212001A"},[["appl",{},["{(?1CMP)(B0FRM)}"]],["sti",{"ident":"4601"},[]],["img",{"numfich":"00070387","path":"/img/pr/87/0007/00070387.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001844","ref":"0000597096","refpg":"5970 96"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"107, 121, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001862","ref":"00005960C3","refpg":"5960 C3"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMP)}"]],["reffour",{},[["four",{},["64428E"]],["refa",{},["FR5EI"]]]]]],["prremp",{"coef":"01","palges":"P","ref":"00005960C2","refpg":"5960 C2"},[]]]],["pr",{"codesi":"001862","ref":"00005960C5","refpg":"5960 C5"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMP)}"]],["reffour",{},[["four",{},["15012S  B7"]],["refa",{},["K16PSR-B8"]]]]]],["prremp",{"coef":"01","palges":"P","ref":"00005960C4","refpg":"5960 C4"},[]]]],["interactivite",{"order":"02"},[["area",{"coords":"106, 204, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"014271","ref":"0000597308","refpg":"5973 08"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"90, 42, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "090001333340B",
- "refDisplay": "0900 01 333340B",
- "title": "BOITIER ELECTRONIQUE",
- "nature": "",
- "applicability": "TRANSMISSION CONTINUE 4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FRN",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"090001333340B","refDisplay":"0900 01 333340B","title":"BOITIER ELECTRONIQUE","nature":"","applicability":"TRANSMISSION CONTINUE 4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FRN","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CMP)(B0FRN)(B0G0H)}","tree":["document",{},[["thesaurus",{"type":"10","code":"010151"},[]],["thesaurus",{"type":"10","code":"010594"},[]],["thesaurus",{"type":"10","code":"009324"},[]],["thesaurus",{"type":"10","code":"014261"},[]],["mpr",{"catal":"0900","grp":"613","grp2":"01","maj":"20120224","numfich":"333340B"},[["appl",{},["{(?1CMP)(B0FRN)(B0G0H)}"]],["sti",{"ident":"61301"},[]],["img",{"numfich":"00069568","path":"/img/pr/68/0006/00069568.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"010151","ref":"00002529TK","refpg":"2529 TK"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)/($,,1,11896)/}"]]]]]],["pr",{"codesi":"010151","ref":"0000253141","refpg":"2531 41"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)/($1,11897,1,12292)/}"]]]]]],["pr",{"codesi":"010151","ref":"0000253195","refpg":"2531 95"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)/($1,12293,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"354, 323, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"010594","ref":"0000253081","refpg":"2530 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"236, 265, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"009324","ref":"0000682364","refpg":"6823 64"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M8X20"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"356, 445, 11","shape":"circle"},[]],["area",{"coords":"48, 5, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"014261","ref":"0000682356","refpg":"6823 56"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M8"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"92, 365, 11","shape":"circle"},[]],["area",{"coords":"105, 5, 11","shape":"circle"},[]]]]]]]]]]}

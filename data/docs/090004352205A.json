@@ -1,18 +1,1 @@
-{
- "ref": "090004352205A",
- "refDisplay": "0900 04 352205A",
- "title": "COMMANDE BLOCAGE PONT AR",
- "nature": "",
- "applicability": "4 ROUES MOTRICES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FRP",
-   "fctId": "FCT0021"
-  }
- ]
-}
+{"ref":"090004352205A","refDisplay":"0900 04 352205A","title":"COMMANDE BLOCAGE PONT AR","nature":"","applicability":"4 ROUES MOTRICES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FRP","fctId":"FCT0021"}],"kind":"pr","appl":"{(?1CMP)(B0FRP)(DRA02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"015034"},[]],["thesaurus",{"type":"10","code":"015035"},[]],["thesaurus",{"type":"10","code":"014261"},[]],["thesaurus",{"type":"10","code":"014278"},[]],["mpr",{"catal":"0900","grp":"124","grp2":"04","maj":"20120224","numfich":"352205A"},[["appl",{},["{(?1CMP)(B0FRP)(DRA02)}"]],["sti",{"ident":"12401"},[]],["img",{"numfich":"00066846","path":"/img/pr/46/0006/00066846.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"015034","ref":"1606297880","refpg":"16 062 978 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"1609900880","refpg":"16 099 008 80"},[]]]],["interactivite",{"order":"01"},[["area",{"coords":"251, 208, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"015035","ref":"0000314608","refpg":"3146 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"392, 306, 11","shape":"circle"},[]]]]]],["repere",{"rep":"20"},[["pr",{"codesi":"014261","ref":"0000682356","refpg":"6823 56"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M8"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"338, 285, 11","shape":"circle"},[]]]]]],["repere",{"rep":"21"},[["pr",{"codesi":"014278","ref":"00005638SA","refpg":"5638 SA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"58, 385, 11","shape":"circle"},[]]]]]]]]]]}

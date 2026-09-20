@@ -1,18 +1,1 @@
-{
- "ref": "090004453507A",
- "refDisplay": "0900 04 453507A",
- "title": "MAITRE CYLINDRE RESERVOIR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FRP",
-   "fctId": "FCT0045"
-  }
- ]
-}
+{"ref":"090004453507A","refDisplay":"0900 04 453507A","title":"MAITRE CYLINDRE RESERVOIR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FRP","fctId":"FCT0045"}],"kind":"pr","appl":"{(?1CMP)(B0FRP)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001410"},[]],["thesaurus",{"type":"10","code":"006427"},[]],["thesaurus",{"type":"10","code":"001028"},[]],["thesaurus",{"type":"10","code":"007513"},[]],["mpr",{"catal":"0900","grp":"238","grp2":"04","maj":"20120224","numfich":"453507A"},[["appl",{},["{(?1CMP)(B0FRP)}"]],["sti",{"ident":"23801"},[]],["img",{"numfich":"00090074","path":"/img/pr/74/0009/00090074.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001410","ref":"00004601W0","refpg":"4601 W0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)(DCX01)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"71, 391, 11","shape":"circle"},[]],["area",{"coords":"122, 451, 11","shape":"circle"},[]],["area",{"coords":"396, 287, 11","shape":"circle"},[]],["area",{"coords":"207, 517, 11","shape":"circle"},[]],["area",{"coords":"83, 286, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006427","ref":"00004635C7","refpg":"4635 C7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)(B0G0C)}"]]]]]],["pr",{"codesi":"006427","ref":"00004635C8","refpg":"4635 C8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)(B0G0H)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"326, 74, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001028","ref":"0000464340","refpg":"4643 40"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"1606296180","refpg":"16 062 961 80"},[]]]],["interactivite",{"order":"02"},[["area",{"coords":"55, 168, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007513","ref":"0000463714","refpg":"4637 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"403, 419, 11","shape":"circle"},[]]]]]]]]]]}

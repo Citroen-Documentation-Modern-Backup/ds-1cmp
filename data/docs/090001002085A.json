@@ -1,18 +1,1 @@
-{
- "ref": "090001002085A",
- "refDisplay": "0900 01 002085A",
- "title": "ENSEMBLE MOTEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"090001002085A","refDisplay":"0900 01 002085A","title":"ENSEMBLE MOTEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FJ4","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CMP)(B0FJ4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013645"},[]],["mpr",{"catal":"0900","grp":"4","grp2":"01","maj":"20120223","numfich":"002085A"},[["appl",{},["{(?1CMP)(B0FJ4)}"]],["sti",{"ident":"401"},[]],["img",{"numfich":"00085961","path":"/img/pr/61/0008/00085961.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013645","ref":"00000135RY","refpg":"0135 RY"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]],["reporg",{},[["monte",{},["4HK"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"359, 75, 11","shape":"circle"},[]]]]]]]]]]}

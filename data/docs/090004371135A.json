@@ -1,18 +1,1 @@
-{
- "ref": "090004371135A",
- "refDisplay": "0900 04 371135A",
- "title": "TRANSMISSION TRANSVERSALE",
- "nature": "",
- "applicability": "BVM PILOTEE 6 RAPPORTS 4X4 ET TRANSMISSION TRANSVERSALE AVANT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FJ4",
-   "fctId": "FCT0022"
-  }
- ]
-}
+{"ref":"090004371135A","refDisplay":"0900 04 371135A","title":"TRANSMISSION TRANSVERSALE","nature":"","applicability":"BVM PILOTEE 6 RAPPORTS 4X4 ET TRANSMISSION TRANSVERSALE AVANT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FJ4","fctId":"FCT0022"}],"kind":"pr","appl":"{(?1CMP)(B0FJ4)(B0G0N)(%TRANAV)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001703"},[]],["thesaurus",{"type":"10","code":"001223"},[]],["thesaurus",{"type":"10","code":"015198"},[]],["thesaurus",{"type":"10","code":"001121"},[]],["thesaurus",{"type":"10","code":"001596"},[]],["thesaurus",{"type":"10","code":"001198"},[]],["thesaurus",{"type":"10","code":"006202"},[]],["thesaurus",{"type":"10","code":"001378"},[]],["thesaurus",{"type":"10","code":"003190"},[]],["thesaurus",{"type":"10","code":"014278"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0900","grp":"132","grp2":"04","maj":"20120221","numfich":"371135A"},[["appl",{},["{(?1CMP)(B0FJ4)(B0G0N)(%TRANAV)}"]],["sti",{"ident":"13201"},[]],["img",{"numfich":"3711v20a","path":"/img/pr/0a/3711/3711v20a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001703","cote":"G","ref":"00003272TW","refpg":"3272 TW"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001703","cote":"D","ref":"00003273VF","refpg":"3273 VF"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001223","ref":"00003287F2","refpg":"3287 F2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001223","ref":"00003293E4","refpg":"3293 E4"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"015198","ref":"0000327923","refpg":"3279 23"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"015198","ref":"0000327924","refpg":"3279 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001121","ref":"0000329517","refpg":"3295 17"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001121","ref":"0000329518","refpg":"3295 18"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001596","ref":"0000329731","refpg":"3297 31"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"001198","ref":"0000329730","refpg":"3297 30"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"006202","ref":"0000329729","refpg":"3297 29"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"001378","ref":"0000329413","refpg":"3294 13"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"003190","ref":"0000323204","refpg":"3232 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"20"},[["pr",{"codesi":"014278","ref":"0000323205","refpg":"3232 05"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]],["repere",{"rep":"21"},[["pr",{"codesi":"001596","ref":"0000282817","refpg":"2828 17"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]]]]]]]]}

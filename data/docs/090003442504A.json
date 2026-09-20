@@ -1,18 +1,1 @@
-{
- "ref": "090003442504A",
- "refDisplay": "0900 03 442504A",
- "title": "BIELLETTES DETAIL CREMAILLERE",
- "nature": "",
- "applicability": "CONDUITE A DROITE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FRP",
-   "fctId": "FCT0037"
-  }
- ]
-}
+{"ref":"090003442504A","refDisplay":"0900 03 442504A","title":"BIELLETTES DETAIL CREMAILLERE","nature":"","applicability":"CONDUITE A DROITE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FRP","fctId":"FCT0037"}],"kind":"pr","appl":"{(?1CMP)(B0FRP)(DCX02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"013283"},[]],["thesaurus",{"type":"10","code":"001722"},[]],["mpr",{"catal":"0900","grp":"225","grp2":"03","maj":"20120224","numfich":"442504A"},[["appl",{},["{(?1CMP)(B0FRP)(DCX02)}"]],["sti",{"ident":"22501"},[]],["img",{"numfich":"00062006","path":"/img/pr/06/0006/00062006.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"013283","ref":"00004066A2","refpg":"4066 A2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"333, 451, 11","shape":"circle"},[]],["area",{"coords":"31, 289, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001722","ref":"0000402150","refpg":"4021 50"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"217, 277, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001722","ref":"0000402152","refpg":"4021 52"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"327, 269, 11","shape":"circle"},[]]]]]]]]]]}

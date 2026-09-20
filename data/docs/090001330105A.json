@@ -1,18 +1,1 @@
-{
- "ref": "090001330105A",
- "refDisplay": "0900 01 330105A",
- "title": "BOITE DE VITESSES AUTOMATIQUE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FRP",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"090001330105A","refDisplay":"0900 01 330105A","title":"BOITE DE VITESSES AUTOMATIQUE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FRP","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CMP)(B0FRP)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009392"},[]],["mpr",{"catal":"0900","grp":"91","grp2":"01","maj":"20120224","numfich":"330105A"},[["appl",{},["{(?1CMP)(B0FRP)}"]],["sti",{"ident":"9101"},[]],["img",{"numfich":"00069363","path":"/img/pr/63/0006/00069363.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009392","ref":"1606256680","refpg":"16 062 566 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)(B0G0F)}"]]]]]],["pr",{"codesi":"009392","ref":"1606256980","refpg":"16 062 569 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)(B0G0H)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"152, 455, 11","shape":"circle"},[]]]]]]]]]]}

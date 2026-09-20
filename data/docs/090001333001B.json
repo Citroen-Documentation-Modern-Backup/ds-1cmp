@@ -1,18 +1,1 @@
-{
- "ref": "090001333001B",
- "refDisplay": "0900 01 333001B",
- "title": "REFROIDISSEMENT D’HUILE",
- "nature": "",
- "applicability": "TRANSMISSION CONTINUE 4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMP",
-   "variantKey": "B0D=B0DSU&B0F=B0FRN",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"090001333001B","refDisplay":"0900 01 333001B","title":"REFROIDISSEMENT D’HUILE","nature":"","applicability":"TRANSMISSION CONTINUE 4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMP","variantKey":"B0D=B0DSU&B0F=B0FRN","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CMP)(B0FRN)(B0G0H)}","tree":["document",{},[["thesaurus",{"type":"10","code":"015161"},[]],["thesaurus",{"type":"10","code":"010857"},[]],["thesaurus",{"type":"10","code":"010522"},[]],["thesaurus",{"type":"10","code":"010608"},[]],["mpr",{"catal":"0900","grp":"100","grp2":"01","maj":"20120224","numfich":"333001B"},[["appl",{},["{(?1CMP)(B0FRN)(B0G0H)}"]],["sti",{"ident":"10001"},[]],["img",{"numfich":"00069994","path":"/img/pr/94/0006/00069994.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"015161","ref":"0000227565","refpg":"2275 65"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"213, 34, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"010857","ref":"0000226708","refpg":"2267 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"234, 149, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"010522","ref":"0000227112","refpg":"2271 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"278, 114, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"010608","ref":"0000227566","refpg":"2275 66"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMP)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"394, 69, 11","shape":"circle"},[]],["area",{"coords":"47, 7, 11","shape":"circle"},[]]]]]]]]]]}
